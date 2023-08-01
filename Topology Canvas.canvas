@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Client","id":"388101ed5fc5ceb5","x":-800,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"# Server","id":"41a01b6aac75118f","x":180,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"# Webserver\nSoftware listening to incoming requests and handling responding with resources.","id":"aa45d693f7d60b4c","x":180,"y":-260,"width":500,"height":220},
+		{"type":"text","text":"# Browser\nSoftware to render web-pages consisting of `.html` , `.css` and `.js` files. It has a rendering engine for #HTML, a style engine for #CSS , and most importantly a #JavaScript engine. It also offers interfaces to native system components or services called #API s.","id":"1fe8c123f7da4264","x":-970,"y":-260,"width":360,"height":300},
+		{"type":"file","file":"Topology Notes/HTML.md","id":"43255800a1fa00b9","x":-1480,"y":374,"width":400,"height":400},
+		{"type":"text","text":"# CSS\nDescribes the **appearance** of the web-page.\n\n```css\nbody {\n  background-color: white;\n}\n\n#title {\n  font-size: 15px;\n}\n\n.some-text {\n  color: #d9af3;\n}\n","id":"2b6a1dbc9cf3950f","x":-970,"y":360,"width":480,"height":428},
+		{"type":"text","text":"# Internet\nA network of networks. Different network participants are identified with IP addresses and are connected using the #TCP / #IP stack.","id":"f4af198331d0fa2f","x":-100,"y":-690,"width":405,"height":210},
+		{"type":"text","text":"# Topology","id":"104f31c3afc6e788","x":-655,"y":-690,"width":210,"height":80,"color":"4"},
+		{"type":"text","text":"# Localhost","id":"79afc7e6c506c65f","x":180,"y":40,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"9cf93725c93ecd81","fromNode":"388101ed5fc5ceb5","fromSide":"bottom","toNode":"1fe8c123f7da4264","toSide":"top"},
+		{"id":"cdb1ca9c0b5ce5b4","fromNode":"1fe8c123f7da4264","fromSide":"bottom","toNode":"2b6a1dbc9cf3950f","toSide":"top"},
+		{"id":"a5a0cf5f0e9ac448","fromNode":"388101ed5fc5ceb5","fromSide":"right","toNode":"41a01b6aac75118f","toSide":"left","fromEnd":"arrow","label":"TCP/IP -> HTTP\nRequest/Response"},
+		{"id":"f0dd8505a63fd733","fromNode":"41a01b6aac75118f","fromSide":"bottom","toNode":"aa45d693f7d60b4c","toSide":"top"},
+		{"id":"d0a4c5c1a0f7eb96","fromNode":"1fe8c123f7da4264","fromSide":"bottom","toNode":"43255800a1fa00b9","toSide":"top"},
+		{"id":"5ed87883c93e047d","fromNode":"aa45d693f7d60b4c","fromSide":"bottom","toNode":"79afc7e6c506c65f","toSide":"top"}
+	]
+}

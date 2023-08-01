@@ -1,0 +1,18 @@
+- [ ] Node
+- [ ] Git
+- [ ] VSCode
+- [ ] Javascript
+- [ ] Typescript
+- [ ] Dynamic / Static Typing
+- [ ] APIs
+- [ ] HTML
+- [ ] CSS
+- [ ] DOM
+- [ ] Vite
+- [ ] NPM
+- [ ] Web Audio API
+- [ ] Audio Worklet
+- [ ] ToneJS
+- [ ] Free Software / Open Source / Ethical Source
+- [ ] UI (event-based)
+- [ ] MDN library
