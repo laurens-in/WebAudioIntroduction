@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Your First Website.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Your First Website.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Your First Website.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Your First Website.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,10 +161,12 @@
   },
   "active": "a35d7ea4848c4c48",
   "lastOpenFiles": [
+    "Your First Website.md",
+    "README.md",
+    "LICENSE.md",
     "Topology Canvas.canvas",
     "Topology Keywords.md",
     "Web Server.md",
-    "Your First Website.md",
     "Core.md",
     "Web Servers.md",
     "Lesson Plan.md",
