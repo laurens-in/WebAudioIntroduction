@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Your First Website.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Your First Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Your First Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Your First Website.md"
               }
             }
           }
@@ -159,18 +159,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a35d7ea4848c4c48",
+  "active": "2652702424dae7e9",
   "lastOpenFiles": [
-    "Your First Website.md",
-    "README.md",
-    "LICENSE.md",
-    "Topology Canvas.canvas",
-    "Topology Keywords.md",
-    "Web Server.md",
+    "assets/js-logo.png",
+    "assets",
     "Core.md",
-    "Web Servers.md",
-    "Lesson Plan.md",
     "Slides/Lesson 1.md",
+    "LICENSE.md",
+    "Lesson Plan.md",
+    "README.md",
+    "Your First Website.md",
+    "Web Server.md",
+    "Topology Keywords.md",
+    "Topology Canvas.canvas",
+    "Web Servers.md",
     "Topology Notes/HTML.md",
     "Untitled.canvas",
     "Slides",
