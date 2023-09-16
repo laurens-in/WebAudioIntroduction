@@ -1,3 +1,6 @@
+---
+title: Your First Website
+---
 
 As an exercise we are going to create a website "from the ground up". Later we will use tools like [[Vite]] to help us.
 
