@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5eeb1e780d1d69e7",
+        "id": "60b710310b0b1bc5",
         "type": "tabs",
         "children": [
           {
-            "id": "a35d7ea4848c4c48",
+            "id": "7ed904746de0a637",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvases/How The Web Works.canvas",
-                "viewState": {
-                  "x": 336.27405126104657,
-                  "y": -84.19446609045133,
-                  "zoom": -1.5525749178438928
-                }
+                "file": "internal/Lesson Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvases/How The Web Works.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvases/How The Web Works.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvases/How The Web Works.canvas"
+                "file": "Untitled.md"
               }
             }
           },
@@ -160,29 +155,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a35d7ea4848c4c48",
+  "active": "2652702424dae7e9",
   "lastOpenFiles": [
-    "Canvases/Moving Parts.canvas",
-    "Slides/20.09.2023.md",
-    "Canvases/How The Web Works.canvas",
-    "README.md",
-    "Topology Keywords.md",
-    "Web Server.md",
-    "Core.md",
-    "Lesson Plan.md",
+    "internal/Lesson Plan.md",
+    "Untitled.md",
+    "internal",
     "Your First Website.md",
-    "Canvases",
-    "Topology Notes/HTML.md",
-    "().md",
-    "Links.md",
+    "Topology Keywords.md",
     "LICENSE.md",
+    "internal/Links.md",
     "Node.md",
+    "README.md",
+    "Web Server.md",
+    "Topology Of The Web/HTML.md",
+    "Canvases/Topology Of The Web.canvas",
+    "Canvases/Moving Parts.canvas",
+    "assets/git-branches.webp",
     "assets/js-logo.png",
+    "JavaScript.md",
+    "Slides/20.09.2023.md",
+    "internal/Core.md",
+    "Canvases",
+    "().md",
     "assets",
     "Web Servers.md",
     "Untitled.canvas",
     "Slides",
-    "Topology Notes",
+    "Topology Of The Web",
     "Topology.md"
   ]
 }

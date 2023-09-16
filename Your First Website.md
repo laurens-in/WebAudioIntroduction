@@ -2,11 +2,11 @@
 title: Your First Website
 ---
 
-As an exercise we are going to create a website "from the ground up". Later we will use tools like [[Vite]] to help us.
+As an exercise we are going to create a website "from the ground up".
 
 Create a folder for your website and inside it create an `index.html` file. This is usually the entry-point to your website and most [[Web Server]]s will automatically detect it as such.
 
-First there is some [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) that we have to take care of. Copy this into your `index.html`:
+First there is some [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) that we have to take care of. Copy this [[HTML]]-snippet into your `index.html`:
 
 ```html
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ First there is some [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate
 ```
 
 > [!info]
-> If you want to, you can now start your `dev server` inside this folder and reload the page after each step we take to see it's impact.
+> If you want to, you can now start your `dev server` inside this folder and reload the page after each step to see it's impact.
 
 This contains some info about our page as well as its content, don't worry too much about all this for now - what's important for us is the `<body>` element, our content will go here.
 
@@ -45,7 +45,7 @@ To change this we add the following line to our `index.html`, inside the `<head>
 
 Now our browser will know that we have linked a style-sheet and that it needs to fetch it from the server and apply the styles. If we were to reload our page now, the styles would be applied.
 
-So far everything on our page is completely static. If we want to make it interactive or dynamic we need to add some [[Javascript]]. First we need an element that we want to interact with. Add the following line to your `index.html` file inside the `<body>` element below the `<h1>` element:
+So far everything on our page is completely static. If we want to make it interactive or dynamic we need to add some [[JavaScript]]. First we need an element that we want to interact with. Add the following line to your `index.html` file inside the `<body>` element below the `<h1>` element:
 
 ```html
 <button id="my-button">Click me!</button>
@@ -58,7 +58,7 @@ Now create a `main.js` file and link it inside the `index.html` file inside the 
 ```
 
 > [!warning] Careful
-> You should put all your script tags at the end of the body element to make sure everything else is already rendered when our [[Javascript]] is loaded.
+> You should put all your script tags at the end of the body element to make sure everything else is already rendered when our [[JavaScript]] is loaded.
 
 Now we get to the interesting part. First we need to get a reference to our `<button>` element. Paste the following line at the top of your `main.js` file:
 
