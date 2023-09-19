@@ -1,6 +1,3 @@
----
-title: Your First Website
----
 Create a folder for your website and inside it create an `index.html` file. This is usually the entry-point to your website and most [[Web Server]]s will automatically detect it as such.
 
 First there is some [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) that we have to take care of. Copy this [[HTML]]-snippet into your `index.html`:
