@@ -13,10 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internal/Lesson Plan.md",
+                "file": "Slides/20.09.2023.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "68ba1aab2d1a1fb1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/Topology Of The Web.canvas",
+                "viewState": {
+                  "x": 678.7043944305758,
+                  "y": -303.77557939892546,
+                  "zoom": -1.22367941959294
+                }
+              }
+            }
+          },
+          {
+            "id": "4f8845bdd92acaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slides/20.09.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "141d595e51f56ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8175ecad4fba2b90",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -85,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Slides/20.09.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Slides/20.09.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Slides/20.09.2023.md"
               }
             }
           },
@@ -155,33 +199,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2652702424dae7e9",
+  "active": "4f8845bdd92acaf7",
   "lastOpenFiles": [
-    "internal/Lesson Plan.md",
-    "Untitled.md",
-    "internal",
-    "Your First Website.md",
-    "Topology Keywords.md",
-    "LICENSE.md",
-    "internal/Links.md",
-    "Node.md",
-    "README.md",
-    "Web Server.md",
+    "Topology Of The Web/CSS.md",
+    "Slides/20.09.2023.md",
     "Topology Of The Web/HTML.md",
     "Canvases/Topology Of The Web.canvas",
-    "Canvases/Moving Parts.canvas",
+    "Canvases/Overview.canvas",
+    "assets/factory-3323978_1280.png",
+    "Topology Of The Web/Internet.md",
+    "Topology Of The Web/Client.md",
+    "Topology Of The Web/Website.md",
+    "Topology Of The Web/Web Server.md",
+    "Topology Of The Web/Server.md",
+    "Topology Of The Web/JavaScript.md",
+    "Topology Of The Web/Browser.md",
+    "appearance.md",
+    "Topology Of The Web/Node.js.md",
+    "Topology Of The Web/The Web.md",
+    "How To Use Git.md",
+    "README.md",
+    "internal/Lesson Plan.md",
+    "web.md",
+    "Web.md",
+    "b.md",
+    "internal/Links.md",
+    "internal/Core.md",
+    "Your First Website.md",
+    "Node.md",
+    "LICENSE.md",
+    "Topology Keywords.md",
+    "internal",
     "assets/git-branches.webp",
     "assets/js-logo.png",
-    "JavaScript.md",
-    "Slides/20.09.2023.md",
-    "internal/Core.md",
     "Canvases",
-    "().md",
     "assets",
-    "Web Servers.md",
     "Untitled.canvas",
     "Slides",
-    "Topology Of The Web",
-    "Topology.md"
+    "Topology Of The Web"
   ]
 }

@@ -1,9 +1,6 @@
 ---
 title: Your First Website
 ---
-
-As an exercise we are going to create a website "from the ground up".
-
 Create a folder for your website and inside it create an `index.html` file. This is usually the entry-point to your website and most [[Web Server]]s will automatically detect it as such.
 
 First there is some [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) that we have to take care of. Copy this [[HTML]]-snippet into your `index.html`:
@@ -24,6 +21,10 @@ First there is some [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate
 
 > [!info]
 > If you want to, you can now start your `dev server` inside this folder and reload the page after each step to see it's impact.
+
+> [!tip]
+> You can install a simple `dev server` with `npm install -g serve`. This will install the `serve` module globally. Navigate in your terminal to the folder that holds your static files and run `serve .`
+> You can stop it by pressing <kbd>Ctrl</kbd> + <kbd>c</kbd> or <kbd>⌘</kbd> + <kbd>c</kbd> on macOS.
 
 This contains some info about our page as well as its content, don't worry too much about all this for now - what's important for us is the `<body>` element, our content will go here.
 
