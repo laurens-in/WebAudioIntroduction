@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Use Git.md",
+                "file": "Slides/20.09.2023.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2442153ae6483079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb03c22fed07906b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Use Git.md",
+                "file": "Slides/20.09.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Use Git.md",
+                "file": "Slides/20.09.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Use Git.md"
+                "file": "Slides/20.09.2023.md"
               }
             }
           },
@@ -159,12 +173,12 @@
   },
   "active": "4f8845bdd92acaf7",
   "lastOpenFiles": [
+    "Your First Website.md",
+    "How To Use Git.md",
+    "Slides/20.09.2023.md",
     "internal/Links.md",
     "internal/Lesson Plan.md",
-    "Slides/20.09.2023.md",
-    "Your First Website.md",
     "Topology Of The Web/Web Server.md",
-    "How To Use Git.md",
     "Topology Of The Web/Server.md",
     "Topology Of The Web/Client.md",
     "Web Server.md",
