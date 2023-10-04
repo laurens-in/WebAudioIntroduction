@@ -18,15 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35b748a7bf6d1470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slides/04.10.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "2442153ae6483079",
+        "id": "327042826202f367",
         "type": "tabs",
         "children": [
           {
-            "id": "eb03c22fed07906b",
+            "id": "13e033b985548575",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -79,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/20.09.2023.md",
+                "file": "Slides/04.10.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/20.09.2023.md",
+                "file": "Slides/04.10.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/20.09.2023.md"
+                "file": "Slides/04.10.2023.md"
               }
             }
           },
@@ -171,38 +185,38 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4f8845bdd92acaf7",
+  "active": "35b748a7bf6d1470",
   "lastOpenFiles": [
-    "Your First Website.md",
-    "How To Use Git.md",
     "Slides/20.09.2023.md",
-    "internal/Links.md",
+    "Slides/04.10.2023.md",
+    "How To Use Git.md",
+    "internal/18.10..md",
     "internal/Lesson Plan.md",
+    "Your First Website.md",
+    "Topology Of The Web/HTML.md",
+    "Canvases/Topology Of The Web.canvas",
+    "Topology Of The Web/CSS.md",
+    "Topology Of The Web/Client.md",
+    "Topology Of The Web/Browser.md",
+    "Canvases/Overview.canvas",
+    "README.md",
+    "internal/Links.md",
     "Topology Of The Web/Web Server.md",
     "Topology Of The Web/Server.md",
-    "Topology Of The Web/Client.md",
     "Web Server.md",
-    "README.md",
     "Topology Keywords.md",
     "LICENSE.md",
-    "Canvases/Topology Of The Web.canvas",
     "Node.md",
     "Topology Of The Web/Localhost.md",
     "Topology Of The Web/Node.js.md",
     "Topology Of The Web/npm.md",
     "Topology Of The Web/JavaScript.md",
     "Topology Of The Web/Internet.md",
-    "Topology Of The Web/Browser.md",
     "Topology Of The Web/The Web.md",
     "assets/Client-server-model.png",
-    "Topology Of The Web/HTML.md",
-    "Canvases/Overview.canvas",
-    "Topology Of The Web/CSS.md",
     "assets/factory-3323978_1280.png",
     "Topology Of The Web/Website.md",
     "appearance.md",
-    "web.md",
-    "Web.md",
     "internal",
     "assets/git-branches.webp",
     "assets/js-logo.png",
