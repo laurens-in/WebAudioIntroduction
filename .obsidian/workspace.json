@@ -6,6 +6,7 @@
       {
         "id": "60b710310b0b1bc5",
         "type": "tabs",
+        "dimension": 59.06040268456376,
         "children": [
           {
             "id": "4f8845bdd92acaf7",
@@ -13,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/20.09.2023.md",
-                "mode": "source",
+                "file": "Slides/04.10.2023.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "35b748a7bf6d1470",
+            "id": "d453a458875b19aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/04.10.2023.md",
+                "file": "Slides/18.10.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +36,12 @@
         "currentTab": 1
       },
       {
-        "id": "327042826202f367",
+        "id": "0dea36fba1e9374d",
         "type": "tabs",
+        "dimension": 40.939597315436245,
         "children": [
           {
-            "id": "13e033b985548575",
+            "id": "44255c72d153b05a",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -92,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/04.10.2023.md",
+                "file": "Slides/18.10.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/04.10.2023.md",
+                "file": "Slides/18.10.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/04.10.2023.md"
+                "file": "Slides/18.10.2023.md"
               }
             }
           },
@@ -185,12 +186,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "35b748a7bf6d1470",
+  "active": "d453a458875b19aa",
   "lastOpenFiles": [
-    "Slides/20.09.2023.md",
+    "internal/Next Session.md",
+    "Slides/18.10.2023.md",
+    "assets/benjamin.webp",
+    "assets/usage_stats.png",
     "Slides/04.10.2023.md",
+    "Slides/20.09.2023.md",
     "How To Use Git.md",
-    "internal/18.10..md",
     "internal/Lesson Plan.md",
     "Your First Website.md",
     "Topology Of The Web/HTML.md",
@@ -215,8 +219,6 @@
     "Topology Of The Web/The Web.md",
     "assets/Client-server-model.png",
     "assets/factory-3323978_1280.png",
-    "Topology Of The Web/Website.md",
-    "appearance.md",
     "internal",
     "assets/git-branches.webp",
     "assets/js-logo.png",
