@@ -6,7 +6,6 @@
       {
         "id": "60b710310b0b1bc5",
         "type": "tabs",
-        "dimension": 59.06040268456376,
         "children": [
           {
             "id": "4f8845bdd92acaf7",
@@ -26,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/18.10.2023.md",
+                "file": "Slides/01.11.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,21 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0dea36fba1e9374d",
-        "type": "tabs",
-        "dimension": 40.939597315436245,
-        "children": [
-          {
-            "id": "44255c72d153b05a",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/18.10.2023.md",
+                "file": "Slides/01.11.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/18.10.2023.md",
+                "file": "Slides/01.11.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/18.10.2023.md"
+                "file": "Slides/01.11.2023.md"
               }
             }
           },
@@ -189,6 +173,8 @@
   "active": "d453a458875b19aa",
   "lastOpenFiles": [
     "internal/Next Session.md",
+    "Slides/01.11.2023.md",
+    "assets/threads.png",
     "Slides/18.10.2023.md",
     "assets/benjamin.webp",
     "assets/usage_stats.png",
