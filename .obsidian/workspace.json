@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "0e78ba0deb8ad467",
+        "id": "cca8289df2e73706",
         "type": "tabs",
         "children": [
           {
-            "id": "7d060c8169e41402",
+            "id": "76de465afc1c5d5a",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -173,12 +173,15 @@
   },
   "active": "a286547cf1c61784",
   "lastOpenFiles": [
-    "internal/Next Session.md",
+    "assets/git-branches.webp",
+    "assets/fm_synthesis.png",
+    "assets/fm_good.webp",
     "Slides/22.11.2023.md",
-    "().md",
-    "Slides/01.11.2023.md",
-    "Slides/04.10.2023.md",
     "Slides/20.09.2023.md",
+    "Slides/01.11.2023.md",
+    "internal/Next Session.md",
+    "().md",
+    "Slides/04.10.2023.md",
     "assets/threads.png",
     "Slides/18.10.2023.md",
     "assets/benjamin.webp",
@@ -203,11 +206,9 @@
     "Topology Of The Web/Localhost.md",
     "Topology Of The Web/Node.js.md",
     "Topology Of The Web/npm.md",
-    "Topology Of The Web/JavaScript.md",
     "assets/Client-server-model.png",
     "assets/factory-3323978_1280.png",
     "internal",
-    "assets/git-branches.webp",
     "assets/js-logo.png",
     "Canvases",
     "assets",
