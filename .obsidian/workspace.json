@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internal/Next Session.md",
+                "file": "Slides/22.11.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internal/Next Session.md",
+                "file": "Slides/22.11.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "internal/Next Session.md",
+                "file": "Slides/22.11.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internal/Next Session.md"
+                "file": "Slides/22.11.2023.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "a286547cf1c61784",
   "lastOpenFiles": [
-    "().md",
     "internal/Next Session.md",
+    "Slides/22.11.2023.md",
+    "().md",
     "Slides/01.11.2023.md",
     "Slides/04.10.2023.md",
     "Slides/20.09.2023.md",
@@ -203,7 +204,6 @@
     "Topology Of The Web/Node.js.md",
     "Topology Of The Web/npm.md",
     "Topology Of The Web/JavaScript.md",
-    "Topology Of The Web/Internet.md",
     "assets/Client-server-model.png",
     "assets/factory-3323978_1280.png",
     "internal",
