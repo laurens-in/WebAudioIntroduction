@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "a30713184c15491f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fcd1fb98a57f583",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +173,11 @@
   },
   "active": "a286547cf1c61784",
   "lastOpenFiles": [
-    "internal/Next Session.md",
-    "Slides/06.12.2023.md",
-    "assets/concurrent-v-parallel.png",
-    "Slides/22.11.2023.md",
     "Slides/20.09.2023.md",
+    "Slides/22.11.2023.md",
+    "Slides/06.12.2023.md",
+    "internal/Next Session.md",
+    "assets/concurrent-v-parallel.png",
     "Your First Website.md",
     "How To Use Git.md",
     "LICENSE.md",
