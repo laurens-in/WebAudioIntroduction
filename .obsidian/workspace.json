@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internal/Next Session.md",
+                "file": "Slides/06.12.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internal/Next Session.md",
+                "file": "Slides/06.12.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "internal/Next Session.md",
+                "file": "Slides/06.12.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internal/Next Session.md"
+                "file": "Slides/06.12.2023.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "a286547cf1c61784",
   "lastOpenFiles": [
-    "assets/concurrent-v-parallel.png",
     "internal/Next Session.md",
+    "Slides/06.12.2023.md",
+    "assets/concurrent-v-parallel.png",
     "Slides/22.11.2023.md",
     "Slides/20.09.2023.md",
     "Your First Website.md",
