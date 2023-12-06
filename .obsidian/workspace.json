@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/22.11.2023.md",
+                "file": "internal/Next Session.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cca8289df2e73706",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "76de465afc1c5d5a",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/22.11.2023.md",
+                "file": "internal/Next Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/22.11.2023.md",
+                "file": "internal/Next Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/22.11.2023.md"
+                "file": "internal/Next Session.md"
               }
             }
           },
@@ -173,22 +159,24 @@
   },
   "active": "a286547cf1c61784",
   "lastOpenFiles": [
+    "assets/concurrent-v-parallel.png",
+    "internal/Next Session.md",
+    "Slides/22.11.2023.md",
+    "Slides/20.09.2023.md",
+    "Your First Website.md",
+    "How To Use Git.md",
+    "LICENSE.md",
+    "Slides/01.11.2023.md",
     "assets/git-branches.webp",
     "assets/fm_synthesis.png",
     "assets/fm_good.webp",
-    "Slides/22.11.2023.md",
-    "Slides/20.09.2023.md",
-    "Slides/01.11.2023.md",
-    "internal/Next Session.md",
     "().md",
     "Slides/04.10.2023.md",
     "assets/threads.png",
     "Slides/18.10.2023.md",
     "assets/benjamin.webp",
     "assets/usage_stats.png",
-    "How To Use Git.md",
     "internal/Lesson Plan.md",
-    "Your First Website.md",
     "Topology Of The Web/HTML.md",
     "Canvases/Topology Of The Web.canvas",
     "Topology Of The Web/CSS.md",
@@ -201,7 +189,6 @@
     "Topology Of The Web/Server.md",
     "Web Server.md",
     "Topology Keywords.md",
-    "LICENSE.md",
     "Node.md",
     "Topology Of The Web/Localhost.md",
     "Topology Of The Web/Node.js.md",
