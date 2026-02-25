@@ -6,6 +6,7 @@
       {
         "id": "c54eea89592d10eb",
         "type": "tabs",
+        "dimension": 87.30964467005076,
         "children": [
           {
             "id": "2bc1c54632ec2848",
@@ -13,22 +14,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/20.09.2023.md",
+                "file": "Topology Of The Web/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.09.2023"
+              "title": "JavaScript"
             }
           }
         ]
       },
       {
-        "id": "45e3cae7eab84af0",
+        "id": "17feb6393603e47f",
         "type": "tabs",
+        "dimension": 12.690355329949238,
         "children": [
           {
-            "id": "554ab7cc0b362b20",
+            "id": "2c0ee63854d5f14c",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -202,42 +204,43 @@
   },
   "active": "2bc1c54632ec2848",
   "lastOpenFiles": [
+    "Topology Of The Web/HTML.md",
+    "Topology Of The Web/Internet.md",
+    "Topology Of The Web/JavaScript.md",
+    "Topology Of The Web/Localhost.md",
+    "Topology Of The Web/The Web.md",
+    "Topology Of The Web/Node.js.md",
+    "Topology Of The Web/npm.md",
+    "Topology Of The Web/Client.md",
+    "Topology Of The Web/CSS.md",
+    "assets/factory-3323978_1280.png",
+    "Topology Of The Web/Browser.md",
+    "Canvases/Topology Of The Web.canvas",
+    "Canvases/Overview.canvas",
+    "Slides/25.02.2026.md",
+    "Topology Of The Web/Website.md",
+    "Topology Of The Web/Server.md",
+    "Slides/22.11.2023.md",
     "Slides/20.12.2023.md",
-    "Slides/20.09.2023.md",
+    "Slides/18.10.2023.md",
     "Slides/01.11.2023.md",
-    "assets/benjamin.webp",
     "Slides/04.10.2023.md",
+    "Slides/20.09.2023.md",
+    "assets/benjamin.webp",
     "Your First Website.md",
     "Deploy Your Work.md",
     "Slides/06.12.2023.md",
-    "Canvases/Topology Of The Web.canvas",
-    "Canvases/Overview.canvas",
     "assets/git-branches.webp",
     "assets/fm_good.webp",
-    "assets/factory-3323978_1280.png",
     "assets/concurrent-v-parallel.png",
     "assets/Client-server-model.png",
     "internal/Next Session.md",
-    "Slides/22.11.2023.md",
     "How To Use Git.md",
     "internal/Lesson Plan.md",
     "internal/Links.md",
-    "LICENSE.md",
     "assets/fm_synthesis.png",
-    "().md",
     "assets/threads.png",
-    "Slides/18.10.2023.md",
     "assets/usage_stats.png",
-    "Topology Of The Web/HTML.md",
-    "Topology Of The Web/CSS.md",
-    "Topology Of The Web/Client.md",
-    "Topology Of The Web/Browser.md",
-    "README.md",
-    "Topology Of The Web/Web Server.md",
-    "Topology Of The Web/Server.md",
-    "Web Server.md",
-    "Topology Keywords.md",
-    "Node.md",
     "internal",
     "assets/js-logo.png",
     "Canvases",
