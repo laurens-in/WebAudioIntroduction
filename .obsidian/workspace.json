@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "5ea112c782330e37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeaa3f8de481f288",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +200,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "96b05652f2977332",
+  "active": "aeaa3f8de481f288",
   "lastOpenFiles": [
     "Slides/25.02.2026.md",
     "Slides/06.12.2023.md",
